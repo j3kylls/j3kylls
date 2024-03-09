@@ -1,35 +1,83 @@
 <img align="center" width="1300" src="https://149362454.v2.pressablecdn.com/previously/wp-content/uploads/sites/5/2014/12/media4.gif">
-<h1 align="center">Hi 👋, I'm Eesha!</h1>
+<h1 align="center">Greetings 🏮, I'm Eesha!</h1>
 <h3 align="center">I <3 ML (Milf Learning)</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j3kylls&theme=dark_lover" alt="j3kylls" /></a> </p>
 
 <hr>
 
+<img align="right" alt="gigig" width="200" src="https://media0.giphy.com/media/5CCQT5QxH43TbgZ9t8/giphy.gif?cid=6c09b952xfc0atlv1hjgti17ae93hwmu92ldzum9h3l8fcpm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+
 <h3 align="left">Overview:</h3>
 
 - 🐉 I’m currently learning **Django!**
 
-- 🍜 I regularly write articles on **Data Science!**
+- 🍜 I write articles on **Data Science!**
 
-- 🧧 How to reach me **eesha2309@gmail.com**
+- 🧧 Reach me at **eesha2309@gmail.com**
 
 - 🐉 Fun fact **I love watching movies!**
+
+<h3 align="left">More:</h3>
+
+- **Currently learning:** 🇷🇺 **&** 🇪🇸 **on**
+
+![image](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+
+- **Organizing on:**
+
+ <br>
+
+![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+- **Office tools:**
+
+<br>
+
+![MSWord](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![MSAccess](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![MSPowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+- **OS & More:**
+
+<br>
+
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)
+
 
 <hr>
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-eeshatrbl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eeshatrbl/)](https://www.linkedin.com/in/eeshatrbl/)
-[![Kaggle Badge](https://img.shields.io/badge/-eeshatrbl-lightblue?style=flat-square&logo=Kaggle&logoColor=white&link=https://kaggle.com/eeshatrbl)](https://kaggle.com/eeshatrbl)
-[![Medium Badge](https://img.shields.io/badge/-@l216269-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@l216269/)](https://medium.com/@l216269)
+[![Linkedin Badge](https://img.shields.io/badge/-eeshatrbl-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eeshatrbl/)](https://www.linkedin.com/in/eeshatrbl/)
+[![Kaggle Badge](https://img.shields.io/badge/-eeshatrbl-lightblue?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://kaggle.com/eeshatrbl)](https://kaggle.com/eeshatrbl)
+[![Medium Badge](https://img.shields.io/badge/-@l216269-white?style=for-the-badge&labelColor=black&logo=Medium&link=https://medium.com/@l216269/)](https://medium.com/@l216269)
 
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![OpenCV](https://img.shields.io/badge/-OpenCV-red?style=for-the-badge&logo=OpenCV)
+![Pandas](https://img.shields.io/badge/-Pandas-darkblue?style=for-the-badge&logo=Pandas)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=for-the-badge&logo=PyTorch)
+![scikit-learn](https://img.shields.io/badge/-scikitlearn-blue?style=for-the-badge&logo=scikit-learn)
+![Keras](https://img.shields.io/badge/-Keras-darkred?style=for-the-badge&logo=Keras)
+![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=for-the-badge&logo=Seaborn)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellow?style=for-the-badge&logo=TensorFlow)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+![ChartJS](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j3kylls&theme=date_night" alt="date_night" /></p>
