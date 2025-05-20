@@ -10,13 +10,14 @@
 
 <h3 align="left">Overview:</h3>
 
-- 🐉 I’m currently learning **Django!**
+Hi! I am a Data Science graduate from FAST NUCES, Lahore. I have four years of academic experience in AI/ML, alongside experience as a Research Assistant at the university labs, and internship experience as a Data Analyst with Data Visualization tools (PowerBI/Tableau). My undergraduate thesis is in Political DeepFake Detection, working on ensemble pre-processing techniques to minimize dataset frame wastage. I have a publication on Scalability and Parallelization of Nanocomputers on it's way! My major interest lies in academic research and I aim to teach subjects I enjoy the most to students like me.
 
-- 🍜 I write articles on **Data Science!**
+- 🐉 I’m currently learning **more about Cloud Computing (Azure)!**
+
+- 🍜 I write articles on **Blockchain Technology in Film!**
 
 - 🧧 Reach me at **eesha2309@gmail.com**
 
-- 🐉 Fun fact **I love watching movies!**
 
 <h3 align="left">More:</h3>
 
